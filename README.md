@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @queiroz-py
-- 👀 I’m interested in Python, Machine Learning and AI!
+- 👀 I’m interested in Python, Machine Learning, AI and Quantum Computing!
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me: luizaqm7@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm still very new to coding
